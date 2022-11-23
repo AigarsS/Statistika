@@ -1,0 +1,2 @@
+# Statistika
+Kursa darbs statistikā
